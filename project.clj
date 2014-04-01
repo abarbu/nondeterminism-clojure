@@ -1,5 +1,5 @@
-(defproject nondeterminism "0.1.0-SNAPSHOT"
- :description "Nondeterministic computation for clojure"
+(defproject nondeterminism "0.1.0"
+ :description "Nondeterministic computations for clojure"
  :url "http://github.com/abarbu/nondeterminism-clojure"
  :license {:name "Eclipse Public License"
            :url "http://www.eclipse.org/legal/epl-v10.html"}
